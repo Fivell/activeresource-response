@@ -1,4 +1,5 @@
 ## Activeresource-response 
+## Moved to https://github.com/didww/activeresource-response 
 ####This gem adds possibility to access http response (Net::HTTPResponse) object from result (single object or collection) of activeresource call (methods : find, all, first, last, get )
 
 [![Build Status](http://img.shields.io/travis/Fivell/activeresource-response.png)](https://travis-ci.org/Fivell/activeresource-response)
